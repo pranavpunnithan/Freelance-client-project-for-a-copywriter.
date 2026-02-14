@@ -1,3 +1,3 @@
-Portfolio website created using AI-assisted tools for a freelance client, focused on showcasing copywriting and content writing work.
+Client website developed using AI-assisted tools to present copywriting and content writing services.
 
 https://amrithaullas.vercel.app/
